@@ -18,4 +18,4 @@ If the user holds the score:
 
 ## Whoever reaches 100 points first wins the game!
 
-Check out the game live [here](https://dice-game-zen.netlify.app/).
+You can check out the game live [here](https://dice-game-zen.netlify.app/).
