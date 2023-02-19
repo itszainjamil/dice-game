@@ -1,4 +1,4 @@
-This is one of the projects of the course I did from Udemy by Jonas Schmedtmann.
+This is one of the projects of the JavaScript course I did from Udemy by Jonas Schmedtmann.
 
 # Rules:
 
