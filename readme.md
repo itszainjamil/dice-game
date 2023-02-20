@@ -1,6 +1,7 @@
+# Dice Game
 This is one of the projects of the JavaScript course I did from Udemy by Jonas Schmedtmann.
 
-# Rules:
+## Rules:
 
 If the user generates a dice roll:
 
